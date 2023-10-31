@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c1208951/Documents/Unreal Projects/WorkshopLsn/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/KF/A5JDSMRGXYWGA9ALIDP109.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/WorkshopLsn/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/Z6/EG07XAH3B8PCDOB65IO1YK.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/WorkshopLsn/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/XJ/H7TFY85VK2SEAHOY6D904M.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/WorkshopLsn/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/TC/15AZZTF6591FXLRU4K6YO2.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/WorkshopLsn/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/U8/3CKLNJJPYHL2O6ZUU2OWW8.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/WorkshopLsn/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/9P/25MFAX3TM4GGPRRJ0BYMOX.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/WorkshopLsn/Content/Materials/Metal_Trap_Material.uasset",
+				"C:/Users/c1208951/Documents/Unreal Projects/WorkshopLsn/Content/Blueprints/Fireball_Trap.uasset"
+			]
+		}
+	]
+}
